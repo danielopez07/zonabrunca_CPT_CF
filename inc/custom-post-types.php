@@ -79,7 +79,7 @@ function brunca_negocio_init() {
 		'show_in_menu'       => true,
     'show_in_rest'       => true,
 		'query_var'          => true,
-		'rewrite'            => array( 'slug' => 'zona' ),
+		'rewrite'            => array( 'slug' => 'negocio' ),
 		'capability_type'    => 'post',
 		'has_archive'        => true,
 		'hierarchical'       => false,
