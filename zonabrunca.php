@@ -15,3 +15,8 @@ Domain Path: /lang
 */
 
 include_once 'inc/custom-post-types.php';
+
+function zonabrunca_CPT_CF_load_plugin_textdomain() {
+    load_plugin_textdomain( 'zonabrunca-cpt-cf', FALSE, basename( dirname( __FILE__ ) ) . '/lang/' );
+}
+add_action( 'plugins_loaded', 'zonabrunca_CPT_CF_load_plugin_textdomain' );

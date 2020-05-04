@@ -1,34 +1,33 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Zona Brunca CPT CF\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-03 23:06+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: \n"
-"Language: \n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: 2020-05-03 23:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.3.1; wp-5.3.2"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
 
 #: inc/custom-post-types.php:10
 msgctxt "post type general name"
 msgid "Zona"
-msgstr ""
+msgstr "Zone"
 
 #: inc/custom-post-types.php:11
 msgctxt "post type singular name"
 msgid "Zona"
-msgstr ""
+msgstr "Zone"
 
 #: inc/custom-post-types.php:12
 msgctxt "menu admin"
 msgid "Zonas"
-msgstr ""
+msgstr "Zones"
 
 #: inc/custom-post-types.php:13
 msgctxt "adicionar nuevo en la barra de admin"
@@ -85,17 +84,17 @@ msgstr ""
 #: inc/custom-post-types.php:57
 msgctxt "post type general name"
 msgid "Negocio"
-msgstr ""
+msgstr "Business"
 
 #: inc/custom-post-types.php:58
 msgctxt "post type singular name"
 msgid "Negocio"
-msgstr ""
+msgstr "Business"
 
 #: inc/custom-post-types.php:59
 msgctxt "menu admin"
 msgid "Negocios"
-msgstr ""
+msgstr "Businesses"
 
 #: inc/custom-post-types.php:60
 msgctxt "adicionar nuevo en la barra de admin"
@@ -148,17 +147,17 @@ msgstr ""
 #: inc/custom-post-types.php:104
 msgctxt "post type general name"
 msgid "Cosas que hacer"
-msgstr ""
+msgstr "Things to do"
 
 #: inc/custom-post-types.php:105
 msgctxt "post type singular name"
 msgid "Cosas que hacer"
-msgstr ""
+msgstr "Things to do"
 
 #: inc/custom-post-types.php:106
 msgctxt "menu admin"
 msgid "Cosas que hacer"
-msgstr ""
+msgstr "Things to do"
 
 #: inc/custom-post-types.php:107
 msgctxt "adicionar nuevo en la barra de admin"
@@ -210,22 +209,22 @@ msgstr ""
 #: inc/custom-post-types.php:151
 msgctxt "post type general name"
 msgid "Donde comer"
-msgstr ""
+msgstr "Where to eat"
 
 #: inc/custom-post-types.php:152
 msgctxt "post type singular name"
 msgid "Donde comer"
-msgstr ""
+msgstr "Where to eat"
 
 #: inc/custom-post-types.php:153
 msgctxt "menu admin"
 msgid "Donde comer"
-msgstr ""
+msgstr "Where to eat"
 
 #: inc/custom-post-types.php:154
 msgctxt "adicionar nuevo en la barra de admin"
 msgid "Donde comer"
-msgstr ""
+msgstr "Where to eat"
 
 #: inc/custom-post-types.php:155
 msgctxt "iten"
@@ -247,22 +246,22 @@ msgstr ""
 #: inc/custom-post-types.php:198
 msgctxt "post type general name"
 msgid "Donde Alojarse"
-msgstr ""
+msgstr "Where to stay"
 
 #: inc/custom-post-types.php:199
 msgctxt "post type singular name"
 msgid "Donde Alojarse"
-msgstr ""
+msgstr "Where to stay"
 
 #: inc/custom-post-types.php:200
 msgctxt "menu admin"
 msgid "Donde Alojarse"
-msgstr ""
+msgstr "Where to stay"
 
 #: inc/custom-post-types.php:201
 msgctxt "adicionar nuevo en la barra de admin"
 msgid "Donde Alojarse"
-msgstr ""
+msgstr "Where to stay"
 
 #: inc/custom-post-types.php:202
 msgctxt "donde alojarse"
@@ -280,22 +279,22 @@ msgstr ""
 #: inc/custom-post-types.php:245
 msgctxt "post type general name"
 msgid "Servicios Adicionales"
-msgstr ""
+msgstr "Additional services"
 
 #: inc/custom-post-types.php:246
 msgctxt "post type singular name"
 msgid "Servicios Adicionales"
-msgstr ""
+msgstr "Additional services"
 
 #: inc/custom-post-types.php:247
 msgctxt "menu admin"
 msgid "Servicios Adicionales"
-msgstr ""
+msgstr "Additional services"
 
 #: inc/custom-post-types.php:248
 msgctxt "adicionar nuevo en la barra de admin"
 msgid "Servicios Adicionales"
-msgstr ""
+msgstr "Additional services"
 
 #: inc/custom-post-types.php:249
 msgctxt "Servicios Adicionales"
